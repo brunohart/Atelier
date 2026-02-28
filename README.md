@@ -1,4 +1,4 @@
-# Atelier
+# Atelier [CURRENTLY A WORK IN PROGRESS]
 
 **A creative instrument for iPad.**
 
